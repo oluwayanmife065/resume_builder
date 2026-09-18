@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Deutsche Bank 2025 Internship Programme within the Technology, Data & Innovation (TDI) division. As a student pursuing a B.A. in Computer Science and Economics at Hamilton College, graduating in May 2026, I am excited about the opportunity to contribute to Deutsche Bank's pioneering technological strides. I am particularly drawn to the TDI division's commitment to innovation, modernizing IT infrastructure, and fostering a diverse, forward-thinking environment.
+
+Throughout my academic and professional journey, I have developed a strong foundation in both technical and analytical skills that make me an ideal candidate for this position. During my recent internship at Voicify, I worked on designing and implementing over 50 unit tests and developed new test categories to enhance software reliability. I also created a Python script leveraging the OpenAI API to improve user interaction with AI systems. My experience with languages such as C#, Python, JavaScript, and frameworks like React has allowed me to thrive in challenging environments and contribute to significant projects.
+
+In addition to my technical expertise, my economics research at Hamilton College gave me the opportunity to work on large datasets and analyze the financial impact of various factors on college admissions and enrollment. I am well-versed in utilizing Stata to conduct regression analysis and uncover meaningful insights, a skill I look forward to applying in analyzing complex financial models at Deutsche Bank. My blockchain research experience further solidifies my passion for innovative technologies and their potential impact on the finance industry.
+
+As a co-founder and treasurer of the African Students Association, I have honed my leadership and organizational skills, overseeing a $2,000 budget and ensuring the financial sustainability of our events. Additionally, in my role as Vice President of the International Students Association, I have had the opportunity to collaborate with peers to foster an inclusive and supportive campus environment, reflecting Deutsche Bank's values of diversity and collaboration.
+
+I am eager to bring my technical skills, research capabilities, and leadership experience to Deutsche Bank's TDI division. The internship programme offers a unique platform to gain hands-on experience in driving technological innovation, and I am confident that my adaptability, communication skills, and commitment to excellence align with the goals of your team.
+
+Thank you for considering my application. I look forward to the possibility of contributing to Deutsche Bank's success and learning from your distinguished professionals.
+
+Sincerely,
+Oluwayanmife Uriah Adeniran
+

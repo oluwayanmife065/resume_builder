@@ -1,0 +1,357 @@
+{
+  "contact": {
+    "full_name": "Oluwayanmife Uriah Adeniran",
+    "email": "uriahadeniran065@gmail.com",
+    "phone": "315-790-2853",
+    "location": "Rochester, NY",
+    "linkedin_url": "https://bit.ly/uriah_linkedin",
+    "github_url": "https://bit.ly/uriah_github",
+    "portfolio_url": "https://bit.ly/uriah_portfolio"
+  },
+  "target_roles": [
+    "AI/ML Engineer",
+    "Full-Stack / Backend Software Engineer",
+    "AI Product Engineer / Technical Product Lead"
+  ],
+  "experiences": [
+    {
+      "id": "exp_hamilton_econ_research",
+      "company": "Hamilton College",
+      "title": "Economics Research Assistant & Product Lead",
+      "location": "Clinton, NY",
+      "start_date": "May 2025",
+      "end_date": "May 2026",
+      "is_current": true,
+      "bullet_points": [
+        "Identified a workflow bottleneck in manually classifying 5,000+ legal documents; built an automated BERT/STM + OpenAI labeling workflow that reduced classification time 10x and manual workload 70%.",
+        "Developed LLM-based auto-labeling pipelines (Python, OpenAI API), cutting manual categorization time by ~10x.",
+        "Built and optimized BERT embedding and STM topic models in R to classify 5,000+ legal texts, replacing manual workflows.",
+        "Improved classification accuracy from ~60% to 90%+ using prompt-tuned LLMs, a ~50% relative gain over prior models.",
+        "Iterated with researchers through weekly feedback and validated results using precision, recall, and accuracy; achieved 100% agreement across a 50-document blind test, gaining supervisor approval."
+      ],
+      "technologies": [
+        "Python",
+        "OpenAI API",
+        "BERT",
+        "R",
+        "STM Topic Modeling",
+        "Prompt Tuning",
+        "LLMs",
+        "Model Evaluation"
+      ]
+    },
+    {
+      "id": "exp_voicify",
+      "company": "Voicify",
+      "title": "Software Engineering Intern (AI/ML)",
+      "location": "Rochester, NY",
+      "start_date": "May 2024",
+      "end_date": "Aug 2025",
+      "is_current": false,
+      "bullet_points": [
+        "Built full-stack transcript retrieval system (React, ASP.NET Core, PostgreSQL), eliminating manual email requests and serving 15 users.",
+        "Built and deployed C# backend APIs and React Native features, shipping 5 features, improving app engagement 10%, and reducing support tickets 10%.",
+        "Contributed to LLM-driven automation tools (Python, C#, OpenAI) for bug classification and call labeling, saving 2\u20133 hours/day; developed 50+ unit tests across five testing categories to improve product reliability.",
+        "Built a synonym generation tool and analyzed transcript and bug data to improve prompt quality and NLU performance."
+      ],
+      "technologies": [
+        "C#",
+        "ASP.NET Core",
+        "React",
+        "React Native",
+        "Python",
+        "OpenAI API",
+        "PostgreSQL",
+        "NLU",
+        "Unit Testing"
+      ]
+    },
+    {
+      "id": "exp_sesame_exchange",
+      "company": "Sesame Exchange - AI-Powered Campus Marketplace",
+      "title": "Founder & Product Lead",
+      "location": "Clinton, NY",
+      "start_date": "Jul 2025",
+      "end_date": "Present",
+      "is_current": true,
+      "bullet_points": [
+        "Conducted user research with 20+ beta users, identifying demand for a safe, privacy-focused campus marketplace; pivoted product away from gamification toward core marketplace functionality based on feedback.",
+        "Owned product development and early go-to-market through feature prioritization, user testing, word-of-mouth, campus outreach, and direct marketing; iterated on AI accuracy/speed, social features, search, and filtering.",
+        "Got the college to back the project, then used ongoing user interviews to drive growth from about 10 to about 30 active users before stepping back to prioritize thesis work.",
+        "Built full-stack mobile marketplace with AI image recognition (95%+ accuracy via OpenAI Vision Model) and real-time messaging.",
+        "Implemented Firebase backend (Google Authentication and Realtime Database) with Cloudinary CDN integration for optimized image delivery, reducing load times by 60% and supporting 1000+ item listings.",
+        "Developed cross-platform UI in Flutter, enabling smart filtering and authentication for 500+ projected users."
+      ],
+      "technologies": [
+        "Flutter",
+        "OpenAI Vision API",
+        "Firebase",
+        "Google Authentication",
+        "Realtime Database",
+        "Cloudinary CDN",
+        "User Research",
+        "Product Strategy"
+      ]
+    },
+    {
+      "id": "exp_ml_financial_analytics",
+      "company": "Full-Stack ML Financial Analytics Platform",
+      "title": "Founder & Product Lead",
+      "location": "Remote",
+      "start_date": "Nov 2025",
+      "end_date": "Present",
+      "is_current": true,
+      "bullet_points": [
+        "Identified an accessibility gap for young prospective investors in developing economies and defined an MVP combining ML stock prediction with paper trading, prioritizing a testable investing experience over model complexity.",
+        "Chose LSTM/Transformer forecasting as the product's core differentiator after weighing trade-offs between accuracy and complexity, then scoped and directed the build (React, FastAPI, PostgreSQL, PyTorch) to get the MVP in front of users quickly.",
+        "Built end-to-end LSTM forecasting pipeline (TensorFlow/Keras) covering preprocessing, training, validation, and persistence.",
+        "Applied optimization techniques (EarlyStopping, LR scheduling, checkpointing); evaluated using RMSE, MAE, R\u00b2, and directional accuracy.",
+        "Automated pipeline to generate forecasts and update a live dashboard and database for portfolio tracking."
+      ],
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "React",
+        "PostgreSQL",
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "LSTM",
+        "Transformers",
+        "Model Evaluation"
+      ]
+    },
+    {
+      "id": "exp_african_students_association",
+      "company": "African Students Association, Hamilton College",
+      "title": "Co-Founder & Treasurer",
+      "location": "Clinton, NY",
+      "start_date": "Nov 2023",
+      "end_date": "Present",
+      "is_current": true,
+      "bullet_points": [
+        "Co-founded the African Students Association, authored the charter, secured institutional approval, and managed a $2,000+ budget, growing membership by 500% in the first semester."
+      ],
+      "technologies": [
+        "Leadership",
+        "Budget Management",
+        "Institutional Governance",
+        "Community Outreach"
+      ]
+    },
+    {
+      "id": "exp_hamilton_cs_ta",
+      "company": "Hamilton College",
+      "title": "Computer Science Teaching Assistant",
+      "location": "Clinton, NY",
+      "start_date": "Aug 2024",
+      "end_date": "Present",
+      "is_current": true,
+      "bullet_points": [
+        "Guided undergraduate students through C++ programming labs and algorithms assignments during weekly office hours.",
+        "Assisted students with debugging syntax, memory leaks, and logic errors, strengthening clear technical communication across varying skill levels."
+      ],
+      "technologies": [
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Debugging"
+      ]
+    },
+    {
+      "id": "exp_hamilton_av_tech",
+      "company": "Hamilton College",
+      "title": "Student Audiovisual Technician",
+      "location": "Clinton, NY",
+      "start_date": "Aug 2023",
+      "end_date": "May 2025",
+      "is_current": false,
+      "bullet_points": [
+        "Configured, operated, and maintained sound reinforcement, projection, and hybrid conferencing systems for campus events.",
+        "Troubleshot real-time equipment and networking failures during live presentations and trained incoming student technicians."
+      ],
+      "technologies": [
+        "A/V Hardware",
+        "Live Audio",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "id": "exp_hamilton_isa",
+      "company": "International Students Association, Hamilton College",
+      "title": "Vice President",
+      "location": "Clinton, NY",
+      "start_date": "Aug 2024",
+      "end_date": "Present",
+      "is_current": true,
+      "bullet_points": [
+        "Collaborated with student executive board and campus administration to organize cross-cultural programming and foster an inclusive campus environment."
+      ],
+      "technologies": [
+        "Leadership",
+        "Event Planning",
+        "Cross-Cultural Communication"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_rag_chatbot",
+      "title": "RAG Chatbot (LLM + Vector Search)",
+      "role": "Creator & Lead Developer",
+      "link": "https://issorientation.hamiltonlits.org/",
+      "bullet_points": [
+        "Built end-to-end RAG pipeline (Ollama Qwen2.5, SentenceTransformers, LanceDB) with chunking, embedding, and similarity retrieval.",
+        "Designed prompt orchestration and retrieval constraints (similarity thresholds) to ensure high-relevance context injection.",
+        "Integrated Llama Guard safety filtering and deployed chatbot for scalable, real-time student Q&A."
+      ],
+      "technologies": [
+        "Ollama",
+        "Qwen2.5",
+        "SentenceTransformers",
+        "LanceDB",
+        "Llama Guard",
+        "RAG",
+        "Vector Search"
+      ]
+    },
+    {
+      "id": "proj_ml_financial_platform",
+      "title": "Full-Stack ML Financial Analytics Platform",
+      "role": "Founder & Lead Developer",
+      "link": "https://github.com/alexchen",
+      "bullet_points": [
+        "Built end-to-end LSTM forecasting pipeline (TensorFlow/Keras) covering preprocessing, training, validation, and persistence.",
+        "Applied optimization techniques (EarlyStopping, LR scheduling, checkpointing); evaluated using RMSE, MAE, R\u00b2, and directional accuracy.",
+        "Automated pipeline to generate forecasts and update a live dashboard and database for portfolio tracking."
+      ],
+      "technologies": [
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "FastAPI",
+        "React",
+        "PostgreSQL",
+        "LSTM"
+      ]
+    },
+    {
+      "id": "proj_sesame_exchange_app",
+      "title": "Sesame Exchange Shop",
+      "role": "Founder & Full-Stack Developer",
+      "link": "https://sesame-exchange-app.web.app",
+      "bullet_points": [
+        "Built full-stack mobile marketplace with AI image recognition (95%+ accuracy via OpenAI Vision Model) and real-time messaging.",
+        "Implemented Firebase backend (Google Authentication and Realtime Database) with Cloudinary CDN integration for optimized image delivery, reducing load times by 60% and supporting 1000+ item listings.",
+        "Developed cross-platform UI in Flutter, enabling smart filtering and authentication for 500+ projected users."
+      ],
+      "technologies": [
+        "Flutter",
+        "Firebase",
+        "OpenAI Vision API",
+        "Cloudinary CDN",
+        "Realtime Database"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Rochester - Simon Business School",
+      "degree": "M.S.",
+      "field_of_study": "Artificial Intelligence in Business",
+      "graduation_date": "Dec 2027",
+      "location": "Rochester, NY",
+      "gpa": null,
+      "highlights": []
+    },
+    {
+      "institution": "Hamilton College",
+      "degree": "B.S.",
+      "field_of_study": "Computer Science & Economics",
+      "graduation_date": "May 2026",
+      "location": "Clinton, NY",
+      "gpa": "3.72 / 4.0",
+      "highlights": [
+        "Coursework: Algorithms and Data Structures, Deep Learning, Computer Architecture, Machine Learning, Linear Algebra"
+      ]
+    }
+  ],
+  "skill_inventory": [
+    {
+      "category_name": "Product & Strategy",
+      "skills": [
+        "Product Discovery",
+        "User Research",
+        "MVP Development",
+        "Feature Prioritization",
+        "Product Strategy",
+        "User Testing",
+        "Roadmapping",
+        "Go-To-Market"
+      ]
+    },
+    {
+      "category_name": "Languages",
+      "skills": [
+        "Python",
+        "SQL",
+        "C#",
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "R",
+        "Bash",
+        "SQLAlchemy",
+        "Stata"
+      ]
+    },
+    {
+      "category_name": "Frameworks & Libraries",
+      "skills": [
+        "FastAPI",
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "React",
+        "React Native",
+        "ASP.NET Core",
+        "Scikit-learn",
+        "Hugging Face",
+        "SentenceTransformers",
+        "Google Test",
+        "Flutter"
+      ]
+    },
+    {
+      "category_name": "Tools, Cloud & Infrastructure",
+      "skills": [
+        "Git",
+        "Docker",
+        "Azure DevOps",
+        "Firebase",
+        "PostgreSQL",
+        "LanceDB",
+        "Ollama",
+        "OpenAI API",
+        "Cloudinary CDN"
+      ]
+    },
+    {
+      "category_name": "ML / AI & Applied NLP",
+      "skills": [
+        "RAG (Retrieval-Augmented Generation)",
+        "Vector Search",
+        "LLMs",
+        "Neural Networks",
+        "Transformers",
+        "BERT",
+        "LSTM",
+        "Model Evaluation (RMSE, MAE, R\u00b2, Directional Accuracy)",
+        "Prompt Tuning",
+        "STM Topic Modeling",
+        "Llama Guard"
+      ]
+    }
+  ],
+  "certifications": []
+}

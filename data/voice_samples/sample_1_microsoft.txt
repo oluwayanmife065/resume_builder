@@ -1,0 +1,17 @@
+Dear Hiring Committee,
+
+I am writing to apply for the Software Engineer, Cloud Consoles position at Microsoft. I am currently completing my degree in Computer Science and Economics at Hamilton College, and I am eager to contribute my experience in backend development, distributed systems, and applied AI to one of the world's most impactful cloud engineering teams.
+
+At Hamilton, I've worked on projects that strengthened both my software engineering fundamentals and my ability to design reliable systems. For instance, I built an application that uses a machine learning model to describe image data, allowing users to like, comment, and message through an interactive interface. Building and maintaining that system taught me how to balance usability, scalability, and performance in a full-stack environment.
+
+During my internship, I worked on an AI-powered system that handled incoming restaurant calls. Collaborating with AI engineers, I learned how to structure prompts, control model behavior, and troubleshoot reliability issues—skills I later applied to an economics research project analyzing historical legal data. There, I combined statistical modeling (STM) with AI-based classification via the Chat API, developing an understanding of system integration, prompt engineering, and large-scale data processing. These experiences honed my ability to reason about distributed systems and work across software layers, from model tuning to API deployment.
+
+I'm drawn to the Cloud Consoles team because it represents the kind of engineering challenge I value most: designing resilient, scalable systems that power critical cloud infrastructure for millions of users. I share Microsoft's mission to empower people and organizations through technology, and I'm inspired by the team's focus on technical excellence, transparency, and continuous learning.
+
+I would be thrilled to bring my hands-on experience with system design, AI integration, and backend development to the Cloud Consoles team, contributing to services like Serial Console and Cloud Shell while growing as an engineer in one of the most advanced cloud ecosystems in the world.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills and interests align with Microsoft's vision for cloud innovation.
+
+Sincerely,
+Oluwayanmife Adeniran
+

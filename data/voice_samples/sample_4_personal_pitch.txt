@@ -1,0 +1,13 @@
+Personal Pitch & Technical Perspective:
+
+I’m a Computer Science and Economics double major at Hamilton College, originally from Nigeria. I was first introduced to both fields at the college level, which made the transition challenging at first, but it also helped me develop strong problem-solving skills and adaptability. Over time, I became really interested in how technology and economic thinking can work together, especially to improve financial literacy and expand economic opportunities in developing countries.
+
+To build toward that, I’ve gained experience across both research and software engineering. In economics research, I worked extensively with data analysis, STM topic modeling, and LLMs over real-world legal datasets. In software engineering internships, I worked across the full stack—building backend APIs in C#, integrating them with React frontends, and writing unit tests, all within collaborative workflows on Azure DevOps.
+
+One project I’m particularly proud of is Sesame Exchange, a Flutter web application I built using Dart, Firebase, and Cloudinary. It’s a campus marketplace that uses AI to automatically generate descriptions from uploaded images, making it easier and safer for students to post items. More recently, I’ve been developing a stock analysis platform using Python, FastAPI, PostgreSQL, and React, where I’m experimenting with LSTM and transformer models to explore stock price trends and investment insights.
+
+Looking ahead, I’m interested in roles where I can combine software engineering, data, and finance to build tools that help people make better financial decisions. That’s why I’m especially excited about companies where I can work on data-driven financial systems at scale. Long term, I want to build technology that improves financial access and decision-making, particularly for people in developing economies.
+
+On Technical Philosophy & Python:
+I appreciate Python for its rapid prototyping, versatile library ecosystem, and powerful built-in algorithms (like Timsort). At the same time, I recognize its trade-offs: lack of granular memory control and higher abstraction compared to C++ or C#. When debugging production latency and reliability issues—like hallucination in local RAG pipelines—I rely on deterministic evaluations: cosine similarity thresholds against ingested chunks and safety filters with Llama Guard. In team collaboration, when debating technical approaches, I prioritize data: measuring precision, recall, and accuracy across test sets rather than relying on intuition.
+
