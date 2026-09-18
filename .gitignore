@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*/__pycache__/
+**/*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & OS files
+.DS_Store
+**/.DS_Store
+.vscode/
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# Local outputs & pipeline runs
+output/
+*.pdf
+

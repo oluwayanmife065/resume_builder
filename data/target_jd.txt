@@ -1,0 +1,26 @@
+Company: ScaleAI & Financial Systems Lab
+Position: AI/ML Software Engineer (Applied LLMs & Full-Stack Infrastructure)
+Location: New York, NY / Rochester, NY / Remote
+
+About the Role:
+We are looking for an AI/ML Software Engineer to join our Core Intelligent Systems team. In this role, you will design, build, and deploy production-grade machine learning pipelines, scalable retrieval-augmented generation (RAG) systems, and robust backend APIs that serve predictive financial and operational intelligence to thousands of users.
+
+Key Responsibilities:
+- Design and deploy end-to-end RAG pipelines and vector search indexing (LanceDB, pgvector, or Milvus) with custom chunking, cosine similarity retrieval constraints, and prompt orchestration.
+- Develop low-latency backend APIs (Python, FastAPI, C#, ASP.NET Core) to serve real-time ML forecasts and analytical dashboards.
+- Train, evaluate, and fine-tune machine learning and deep learning models (LSTM, Transformers, BERT) using PyTorch and TensorFlow/Keras.
+- Establish rigorous model evaluation benchmarks (RMSE, MAE, R², Directional Accuracy, Precision/Recall) and implement safety filters (Llama Guard, automated content moderation).
+- Implement automated testing (unit and integration tests), CI/CD workflows, and containerized deployments using Docker and cloud platforms.
+
+Required Qualifications:
+- Degree in Computer Science, Economics, Machine Learning, or a related quantitative discipline.
+- Strong programming proficiency in Python, with hands-on experience in C++, C#, or TypeScript.
+- Demonstrated experience building ML/AI applications: RAG pipelines, LLM prompt engineering/fine-tuning, or time-series/NLP model training.
+- Experience with modern backend web frameworks (FastAPI, React, PostgreSQL) and database schema design.
+- Proven track record writing reliable, maintainable code with unit testing frameworks and version control (Git).
+
+Preferred Qualifications:
+- Experience with local LLM runtimes (Ollama, vLLM) and open-weights models (e.g., Qwen 2.5, Llama 3).
+- Background in financial modeling, economic research, or quantitative time-series forecasting.
+- Familiarity with mobile or cross-platform development (Flutter, React Native) and cloud storage/CDN integrations.
+
