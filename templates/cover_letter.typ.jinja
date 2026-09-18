@@ -1,0 +1,72 @@
+#set page(
+  paper: "us-letter",
+  margin: (x: 2.2cm, top: 2.2cm, bottom: 2.2cm),
+)
+
+#set text(
+  font: ("Liberation Sans", "PT Sans", "DejaVu Sans", "Helvetica", "Arial"),
+  size: 10.5pt,
+  fill: rgb("#1e293b"),
+  lang: "en",
+)
+
+#set par(
+  justify: true,
+  leading: 0.68em,
+)
+
+// Header with horizontal rule
+#align(left)[
+  #text(20pt, weight: "bold", fill: rgb("#0f172a"))[{{ letter.candidate_name | escape_typst }}]
+  
+  #v(2pt)
+  #text(9pt, fill: rgb("#64748b"))[{{ letter.candidate_contact_line | escape_typst }}]
+  
+  #v(8pt)
+  #line(length: 100%, stroke: 0.75pt + rgb("#cbd5e1"))
+]
+
+#v(16pt)
+
+// Date & Recipient Details
+#text(size: 10pt, fill: rgb("#475569"))[{{ letter.date_str | escape_typst }}]
+
+#v(10pt)
+
+#text(weight: "bold", fill: rgb("#334155"))[
+  {{ letter.recipient_title | escape_typst }} \
+  {{ letter.company_name | escape_typst }} \
+  Re: {{ letter.job_title | escape_typst }}
+]
+
+#v(16pt)
+
+// Salutation
+#text(weight: "medium")[{{ letter.salutation | escape_typst }}]
+
+#v(10pt)
+
+// Opening Hook
+{{ letter.opening_hook | escape_typst }}
+
+#v(8pt)
+
+// Body Paragraphs
+{% for p in letter.body_paragraphs %}
+{{ p | escape_typst }}
+
+#v(8pt)
+{% endfor %}
+
+// Closing
+{{ letter.closing_paragraph | escape_typst }}
+
+#v(20pt)
+
+// Sign-off
+{{ letter.sign_off | escape_typst }}
+
+#v(24pt)
+
+#text(weight: "bold")[{{ letter.candidate_name | escape_typst }}]
+
